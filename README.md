@@ -45,5 +45,5 @@ I don't want to keep 4 different places up to date.
 If you want to read more about 
 [why this module exists](https://github.com/programminghoch10/MobileIconChanger#inspiration)
 or [additional info about the configuration interface](https://github.com/programminghoch10/MobileIconChanger#configuration)
-or [you just want to see some screenshots first](https://github.com/programminghoch10/MobileIconChanger)
+or [you just want to see some screenshots first](https://github.com/programminghoch10/MobileIconChanger#screenshots)
 head over to [the GitHub Repo](https://github.com/programminghoch10/MobileIconChanger).

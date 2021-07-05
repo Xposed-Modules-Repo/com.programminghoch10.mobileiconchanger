@@ -5,13 +5,14 @@ This module enables you to replace any of the mobile data icons with any other m
 
 ## Compatibility
 
-Since you're probably reading this within `LSPosed Manager` your device should be compatible.
+Any AOSP near ROM should be compatible. Just try it out and see if it works. 
+
 [Read more about compatiblity here](https://github.com/programminghoch10/MobileIconChanger#compatibility).
 
 ## Installation
 
 1. Install the module on a system with a running XPosed framework with API version `>=93`.
-1. Activate the resource hooks within your XPosed framework manager.
+1. **Activate the resource hooks** within your XPosed framework manager.
 1. Activate the module. The package `SystemUI` should automatically be selected.
 1. Restart your phone.
 1. You are now ready to use the module. You will need to open the [Configuration](#configuration) screen to set it all up, as the module won't do anything yet.
